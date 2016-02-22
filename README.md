@@ -1,7 +1,7 @@
 ## SPIR-V
 
 [![Build](https://drone.io/github.com/andreas-jonsson/spirv/status.png)](https://drone.io/github.com/andreas-jonsson/spirv/latest)
-[![Coverage](https://coveralls.io/repos/andreas-jonsson/spirv/badge.svg?branch=master&service=github)](https://coveralls.io/github/andreas-jonsson/spirv?branch=master)
+[![Coverage](https://img.shields.io/badge/test-coverage-lightgrey.svg)](https://gocover.io/github.com/andreas-jonsson/spirv)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/andreas-jonsson/spirv)
 
 Package SPIR-V is a Go encoder/decoder for the Vulkan SPIR-V format.
