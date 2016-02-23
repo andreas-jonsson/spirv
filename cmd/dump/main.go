@@ -34,7 +34,7 @@ func main() {
 // parseArgs parses and validates command line arguments.
 func parseArgs() string {
 	flag.Usage = func() {
-		fmt.Println("usage:", os.Args[0], "[options] <module file>")
+		fmt.Println("usage:", AppName, "[options] <module file>")
 		flag.PrintDefaults()
 	}
 
