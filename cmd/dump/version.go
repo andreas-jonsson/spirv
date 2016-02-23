@@ -10,9 +10,9 @@ import (
 
 // Application name and version constants.
 const (
-	AppName         = "spirv-dump"
+	AppName         = "dump"
 	AppVersionMajor = 0
-	AppVersionMinor = 1
+	AppVersionMinor = 2
 )
 
 // Version returns the application version as a string.
