@@ -67,6 +67,11 @@ SPIR-V has the following goals:
 ### Install
 
     go get github.com/andreas-jonsson/spirv
+    
+    
+### Acknowledgement
+
+This library was originally written by [Jim Teeuwen](https://github.com/jteeuwen).
 
 
 ### License
